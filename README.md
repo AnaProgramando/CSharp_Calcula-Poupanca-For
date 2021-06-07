@@ -1,2 +1,9 @@
-# CSharp_Calcula-Poupanca-For
-Calcula Poupança com Laço de Repetição FOR
+# CSharp - Calcula Poupança com Laço de Repetição FOR
+
+Olá, seja muito bem vinda(o)!
+
+📚 Aproveite o código desse exercício
+
+👩‍💻 Refaça ele do seu jeito
+
+😉 Se tiver qualquer dúvida, me contate
